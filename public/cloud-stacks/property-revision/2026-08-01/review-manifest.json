@@ -1,0 +1,170 @@
+{
+  "publisher": "Home Remodeling Dispatch: Waukesha",
+  "cycle_key": "2026-08-01",
+  "page_count": 19,
+  "support_page_count": 4,
+  "total_html_page_count": 23,
+  "content_sha256": "d2c472a551d940e9ab67d7507bad4d1d733eccee357699c157a2f6801cddd45e",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/property-revision/2026-08-01",
+  "theme_motif": "keyway",
+  "visual_archetype": "editorial_journal",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 682,
+      "whole-house-remodeling-guide": 886,
+      "bathroom-remodeling-waukesha": 770,
+      "basement-remodeling-waukesha": 709,
+      "kitchen-vs-bathroom-remodel-first": 788,
+      "remodeling-contractor-red-flags": 839,
+      "choosing-a-remodeling-contractor-checklist": 794,
+      "design-build-vs-general-contractor": 668,
+      "home-additions-waukesha": 744,
+      "remodeling-project-timeline-questions": 806,
+      "questions-before-basement-remodel-quote": 813,
+      "egress-window-installation-basement": 755,
+      "kitchen-remodeling-waukesha": 747,
+      "basement-kitchenette-ideas": 679,
+      "basement-flood-restoration-before-remodel": 824,
+      "basement-remodel-roi-checklist": 807,
+      "2d-renderings-in-remodel-design": 835,
+      "basement-finishing-vs-remodeling": 661,
+      "remodeling-waukesha-vs-milwaukee-suburbs": 695
+    },
+    "articles_with_sources": 5,
+    "articles_with_media": 4,
+    "articles_with_embeds": 1,
+    "articles_with_entities": 17,
+    "articles_with_faqs": 19,
+    "topical_paths": {
+      "index": [
+        "Home Remodeling",
+        "Contractor Selection and Planning"
+      ],
+      "whole-house-remodeling-guide": [
+        "Home Remodeling",
+        "Whole House Remodeling",
+        "Multi-Room Renovation Planning"
+      ],
+      "bathroom-remodeling-waukesha": [
+        "Bathroom Remodeling",
+        "Planning and Contractor Questions"
+      ],
+      "basement-remodeling-waukesha": [
+        "Basement Remodeling",
+        "Process and Planning"
+      ],
+      "kitchen-vs-bathroom-remodel-first": [
+        "Home Remodeling",
+        "Budget Prioritization",
+        "Kitchen vs Bathroom"
+      ],
+      "remodeling-contractor-red-flags": [
+        "Hiring a Remodeling Contractor",
+        "Vetting and Contracts",
+        "Warning Signs"
+      ],
+      "choosing-a-remodeling-contractor-checklist": [
+        "Hiring a Remodeling Contractor",
+        "Vetting and Contracts",
+        "Pre-Hire Checklist"
+      ],
+      "design-build-vs-general-contractor": [
+        "Hiring a Remodeling Contractor",
+        "Delivery Models",
+        "Design-Build vs General Contractor"
+      ],
+      "home-additions-waukesha": [
+        "Home Additions",
+        "When to Build Out vs Remodel"
+      ],
+      "remodeling-project-timeline-questions": [
+        "Home Remodeling",
+        "Project Planning",
+        "Timelines"
+      ],
+      "questions-before-basement-remodel-quote": [
+        "Basement Remodeling",
+        "Hiring and Quotes",
+        "Pre-Quote Questions"
+      ],
+      "egress-window-installation-basement": [
+        "Basement Remodeling",
+        "Egress Windows",
+        "Pre-Installation Questions"
+      ],
+      "kitchen-remodeling-waukesha": [
+        "Kitchen Remodeling",
+        "Planning and Design"
+      ],
+      "basement-kitchenette-ideas": [
+        "Basement Remodeling",
+        "Kitchenettes and Utility Planning"
+      ],
+      "basement-flood-restoration-before-remodel": [
+        "Basement Remodeling",
+        "Pre-Remodel Water Damage",
+        "Restoration Before Finishing"
+      ],
+      "basement-remodel-roi-checklist": [
+        "Basement Remodeling",
+        "Value and Priorities",
+        "Practical ROI"
+      ],
+      "2d-renderings-in-remodel-design": [
+        "Home Remodeling",
+        "Design and Planning",
+        "2D Renderings"
+      ],
+      "basement-finishing-vs-remodeling": [
+        "Basement Remodeling",
+        "Terminology and Planning"
+      ],
+      "remodeling-waukesha-vs-milwaukee-suburbs": [
+        "Home Remodeling",
+        "Local Project Comparisons",
+        "Waukesha vs Brookfield"
+      ]
+    }
+  },
+  "approved_assets": [
+    {
+      "path": "assets/basement-remodeling-waukesha-813c433c.jpg",
+      "sha256": "c0b53864ae7bbcf9ea0daa1beefa97e534f60d67e7d3695a3aa17d283e946ec2",
+      "size_bytes": 208711,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "path": "assets/home-additions-waukesha-441f6ffd.webp",
+      "sha256": "0e0b49714d55304c4a8916b4a41460afa31b0117f67508031f3ce8aaffaf3430",
+      "size_bytes": 218324,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/index-d64409d9.jpg",
+      "sha256": "323ee5330fbab412df5b6df8d2951b9c264074d473240de5378ae6efdac4a9dc",
+      "size_bytes": 181092,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "path": "assets/kitchen-remodeling-waukesha-b9569c30.jpg",
+      "sha256": "ca607158c9b94732f29886222cbbb6ff4182d26c0301227039ebc4746b7e2936",
+      "size_bytes": 22411,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "warnings": []
+}
