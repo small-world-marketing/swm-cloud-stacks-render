@@ -1,0 +1,170 @@
+{
+  "publisher": "Lower Mainland Allied Care Decision Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 22,
+  "support_page_count": 4,
+  "total_html_page_count": 26,
+  "content_sha256": "45f1b00e3535224d0fcca93ce64730c16787102c8ebea45c0a343c7602e80764",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/easy-allied-health/2026-09-01",
+  "theme_motif": "keyway",
+  "visual_archetype": "decision_notebook",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 814,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-6": 724,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-5": 824,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-13": 745,
+      "lower-mainland-allied-health-provider-and-rehabilitation-plannin": 797,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-2": 771,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-10": 803,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-18": 886,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-11": 756,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-17": 923,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-9": 801,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-4": 749,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-15": 757,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-20": 872,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-21": 874,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-12": 773,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-7": 750,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-8": 872,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-19": 902,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-14": 765,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-16": 958,
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-3": 732
+    },
+    "articles_with_sources": 22,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 22,
+    "articles_with_faqs": 22,
+    "topical_paths": {
+      "index": [
+        "multidisciplinary allied health clinic group fundamentals and terminology",
+        "Starting decisions",
+        "Separate clinical, regulatory, and payment questions"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-6": [
+        "Active Rehab",
+        "Ongoing-care review",
+        "Use records to reopen decisions"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-5": [
+        "Physiotherapy",
+        "Safety and verification boundaries",
+        "Eight signals requiring a different response"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-13": [
+        "Risks, timing, and decision triggers",
+        "Warning signs",
+        "Escalate, verify, clarify, or pause"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-plannin": [
+        "Chiropractic",
+        "Cost and professional-scope checks",
+        "Questions before payment"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-2": [
+        "Service and option comparison",
+        "Neutral service-scope matrix",
+        "Choose using verified facts"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-10": [
+        "Service and option comparison",
+        "Options to compare",
+        "Verifiable distinctions"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-18": [
+        "Service and option comparison",
+        "Accountability matrix",
+        "Choose the next inquiry"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-11": [
+        "Provider, scope, and preparation questions",
+        "Appointment preparation",
+        "Seven information sets"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-17": [
+        "Service and option comparison",
+        "Cost and scope checks",
+        "Separate provider, clinic, and payer decisions"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-9": [
+        "Provider, scope, and preparation questions",
+        "Cost and scope",
+        "Stop, clarify, or proceed"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-4": [
+        "Risks, timing, and decision triggers",
+        "Timing questions",
+        "Reopen plans when facts change"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-15": [
+        "Provider, scope, and preparation questions",
+        "Questions before booking",
+        "Three booking gates"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-20": [
+        "Risks, timing, and decision triggers",
+        "Competing clocks",
+        "Route the next action by urgency and authority"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-21": [
+        "Risks, timing, and decision triggers",
+        "Escalation boundaries",
+        "Route concerns to the responsible authority"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-12": [
+        "Risks, timing, and decision triggers",
+        "Timing considerations",
+        "Now, before booking, and review"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-7": [
+        "Occupational Therapy",
+        "Pre-booking verification",
+        "Resolve essential questions before scheduling"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-8": [
+        "multidisciplinary allied health clinic group fundamentals and terminology",
+        "Planning factors",
+        "Feasibility and coordination"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-19": [
+        "Provider, scope, and preparation questions",
+        "Appointment packet",
+        "Prepare, participate, and follow up"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-14": [
+        "multidisciplinary allied health clinic group fundamentals and terminology",
+        "Records and documentation",
+        "Maintenance systems"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-16": [
+        "Provider, scope, and preparation questions",
+        "Planning-factor worksheet",
+        "Define the first unresolved question"
+      ],
+      "lower-mainland-allied-health-provider-and-rehabilitation-pla-3": [
+        "Provider, scope, and preparation questions",
+        "Appointment preparation",
+        "Build a concise briefing sheet"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
