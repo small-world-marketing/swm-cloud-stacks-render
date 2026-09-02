@@ -1,0 +1,164 @@
+{
+  "publisher": "Northeast Wisconsin Integrative Care Evidence Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 21,
+  "support_page_count": 4,
+  "total_html_page_count": 25,
+  "content_sha256": "9b2bd913c5ed30e8571cb0cf768d55ab85634beba7dc29500d6529f44f284ee2",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/eden-healing-oasis/2026-09-01",
+  "theme_motif": "grid",
+  "visual_archetype": "editorial_journal",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 705,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-3": 695,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-2": 697,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-17": 799,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-5": 759,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-4": 685,
+      "integrative-cancer-care-questions-and-evidence-review-wisconsin": 718,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-20": 825,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-7": 721,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-16": 792,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-11": 753,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-15": 721,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-18": 765,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-12": 707,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-6": 680,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-10": 664,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-13": 690,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-14": 701,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-9": 711,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-19": 801,
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-8": 709
+    },
+    "articles_with_sources": 21,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 21,
+    "articles_with_faqs": 21,
+    "topical_paths": {
+      "index": [
+        "integrative wellness center fundamentals and terminology",
+        "Starting definitions",
+        "Local evidence-navigation route"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-3": [
+        "Provider, scope, and preparation questions",
+        "Pre-consultation packet",
+        "Readiness gates"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-2": [
+        "Service and option comparison",
+        "Cross-service matrix",
+        "Evidence and oversight"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-17": [
+        "Provider, scope, and preparation questions",
+        "Cost and professional boundaries",
+        "Purchase decision"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-5": [
+        "Hyperbaric Oxygen Therapy",
+        "Claim warning signs",
+        "Verification response"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-4": [
+        "Risks, timing, and decision triggers",
+        "Oncology scheduling",
+        "Reassessment points"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wisconsin": [
+        "Cancer Care",
+        "Cost and provider scope",
+        "Commitment checkpoint"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-20": [
+        "Risks, timing, and decision triggers",
+        "Oncology schedule coordination",
+        "Reassessment triggers"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-7": [
+        "EBOO Therapy",
+        "Pre-booking review",
+        "Accountability and emergency plan"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-16": [
+        "Provider, scope, and preparation questions",
+        "Defining a proposal for clinical review",
+        "Planning threshold"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-11": [
+        "Cancer Care",
+        "Mistletoe evidence review",
+        "Pre-consent preparation"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-15": [
+        "Provider, scope, and preparation questions",
+        "Photodynamic and light-based claims",
+        "Pre-booking decision gates"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-18": [
+        "Service and option comparison",
+        "Commercial care, supportive care, and research",
+        "Comparable option cards"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-12": [
+        "Ozone Therapy",
+        "Regulatory and oncology timing",
+        "Pre-booking pause points"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-6": [
+        "Ozone Therapy",
+        "Ongoing review",
+        "Change-triggered reassessment"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-10": [
+        "Service and option comparison",
+        "Localized heat terminology",
+        "Oncology-versus-commercial comparison"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-13": [
+        "Provider, scope, and preparation questions",
+        "IV therapy oversight",
+        "Claim and safety warning signs"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-14": [
+        "EBOO Therapy",
+        "Continuing oversight and records",
+        "Maintenance re-evaluation"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-9": [
+        "Hyperbaric Oxygen Therapy",
+        "Safety, scope, and consumer terms",
+        "Cost-and-scope decision"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-19": [
+        "Provider, scope, and preparation questions",
+        "Records and consultation preparation",
+        "Pre-visit checklist"
+      ],
+      "integrative-cancer-care-questions-and-evidence-review-wiscon-8": [
+        "Service and option comparison",
+        "Regulatory status and clinical evidence",
+        "Device-claim planning factors"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
