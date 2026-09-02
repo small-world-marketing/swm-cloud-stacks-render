@@ -1,0 +1,156 @@
+{
+  "publisher": "Chicagoland Window & Door Review",
+  "cycle_key": "2026-09-01",
+  "page_count": 21,
+  "support_page_count": 4,
+  "total_html_page_count": 25,
+  "content_sha256": "7e7fbe16713e3338b3a0ff40a7a25fc829cec87c35063f6b52a266cde952c8b5",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/mccann-window-exteriors/2026-09-01",
+  "theme_motif": "threshold",
+  "visual_archetype": "editorial_journal",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 687,
+      "replacement-window-and-exterior-project-decisions-chicagolan-4": 705,
+      "replacement-window-and-exterior-project-decisions-chicagoland-qu": 681,
+      "replacement-window-and-exterior-project-decisions-chicagoland-wa": 690,
+      "replacement-window-and-exterior-project-decisions-chicagoland-ti": 732,
+      "replacement-window-and-exterior-project-decisions-chicagolan-11": 771,
+      "replacement-window-and-exterior-project-decisions-chicagolan-12": 734,
+      "replacement-window-and-exterior-project-decisions-chicagolan-8": 686,
+      "replacement-window-and-exterior-project-decisions-chicagolan-3": 743,
+      "replacement-window-and-exterior-project-decisions-chicagoland-op": 701,
+      "replacement-window-and-exterior-project-decisions-chicagoland-ma": 722,
+      "replacement-window-and-exterior-project-decisions-chicagolan-9": 750,
+      "replacement-window-and-exterior-project-decisions-chicagoland-pl": 723,
+      "replacement-window-and-exterior-project-decisions-chicagolan-7": 695,
+      "replacement-window-and-exterior-project-decisions-chicagolan-13": 789,
+      "replacement-window-and-exterior-project-decisions-chicagolan-6": 692,
+      "replacement-window-and-exterior-project-decisions-chicagolan-5": 812,
+      "replacement-window-and-exterior-project-decisions-chicagolan-14": 807,
+      "replacement-window-and-exterior-project-decisions-chicagoland-co": 701,
+      "replacement-window-and-exterior-project-decisions-chicagoland-pr": 738,
+      "replacement-window-and-exterior-project-decisions-chicagolan-10": 746
+    },
+    "articles_with_sources": 21,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 21,
+    "articles_with_faqs": 21,
+    "topical_paths": {
+      "index": [
+        "Chicagoland, IL official guidance and local context",
+        "Independent local project roadmap"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-4": [
+        "Service and option comparison",
+        "Product literacy",
+        "Evidence-based shortlist"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-qu": [
+        "Exterior Door Installation",
+        "Pre-booking scope review"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-wa": [
+        "exterior remodeling contractor fundamentals and terminology",
+        "Proposal warning signs"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-ti": [
+        "Risks, timing, and decision triggers",
+        "Investigation and sequencing"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-11": [
+        "Provider, scope, and preparation questions",
+        "Cost and scope review",
+        "Proposal normalization"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-12": [
+        "Service and option comparison",
+        "Product and installation choices",
+        "Evidence-based option matrix"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-8": [
+        "Records, preparation, and next steps",
+        "Maintenance records",
+        "Care, monitor, repair, or claim"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-3": [
+        "Provider, scope, and preparation questions",
+        "Cost comparison",
+        "Normalize proposals"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-op": [
+        "Window Replacement",
+        "Product and installation comparison"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-ma": [
+        "Service and option comparison",
+        "Maintenance and service escalation"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-9": [
+        "Provider, scope, and preparation questions",
+        "Contractor review",
+        "Booking evidence gates"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-pl": [
+        "Window Replacement",
+        "Planning scope",
+        "Opening-first or coordinated work"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-7": [
+        "exterior remodeling contractor fundamentals and terminology",
+        "Condition assessment",
+        "Triage warning signs"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-13": [
+        "Records, preparation, and next steps",
+        "Occupied-home preparation",
+        "Lead and access planning"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-6": [
+        "Risks, timing, and decision triggers",
+        "Project timing",
+        "Proceed, stabilize, or schedule"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-5": [
+        "Records, preparation, and next steps",
+        "Occupant preparation",
+        "Pre-start readiness"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-14": [
+        "Risks, timing, and decision triggers",
+        "Timing paths",
+        "Urgency versus coordinated phasing"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-co": [
+        "Provider, scope, and preparation questions",
+        "Cost and scope normalization"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagoland-pr": [
+        "Records, preparation, and next steps",
+        "Occupant and site readiness"
+      ],
+      "replacement-window-and-exterior-project-decisions-chicagolan-10": [
+        "Risks, timing, and decision triggers",
+        "Starting diagnosis",
+        "Evidence before product selection"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
