@@ -1,0 +1,170 @@
+{
+  "publisher": "PA–NJ Workplace Rights Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 22,
+  "support_page_count": 4,
+  "total_html_page_count": 26,
+  "content_sha256": "84e6a9341e9c699880a3cd76e4f2240ae659e1601e6fa70c5f9c80d41b0c03ce",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/lacy-employment-law/2026-09-01",
+  "theme_motif": "grid",
+  "visual_archetype": "editorial_journal",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 895,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-planning-f": 1041,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-option-3": 930,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-questions": 760,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-mainte-3": 871,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-warnin-3": 872,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-timing-3": 880,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-timing-4": 984,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-cost-and-s": 857,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-options-to": 828,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-maintenanc": 738,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-prepar-3": 923,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-cost-a-3": 930,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-timing-con": 750,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-questi-3": 835,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-prepar-4": 1010,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-cost-a-4": 947,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-warning-si": 791,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-option-4": 1015,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-warnin-4": 980,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-planni-4": 979,
+      "employee-workplace-rights-pennsylvania-and-new-jersey-preparatio": 781
+    },
+    "articles_with_sources": 21,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 22,
+    "articles_with_faqs": 22,
+    "topical_paths": {
+      "index": [
+        "plaintiff-side employment law firm fundamentals and terminology",
+        "Local orientation",
+        "Classify the immediate decision"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-planning-f": [
+        "Service and option comparison",
+        "Planning tracks",
+        "Choose a lead issue"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-option-3": [
+        "Service and option comparison",
+        "Internal, agency, and professional routes",
+        "Match route to purpose"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-questions": [
+        "Wrongful termination lawyer",
+        "Pre-consultation questions",
+        "Confirm fit and responsibility"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-mainte-3": [
+        "plaintiff-side employment law firm fundamentals and terminology",
+        "Record maintenance",
+        "Event and scheduled updates"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-warnin-3": [
+        "Risks, timing, and decision triggers",
+        "Process warning signs",
+        "Match signals to verification"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-timing-3": [
+        "Risks, timing, and decision triggers",
+        "Source-based timing",
+        "Triage and verify dates"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-timing-4": [
+        "Risks, timing, and decision triggers",
+        "Multiple timing sources",
+        "Verification triage"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-cost-and-s": [
+        "Provider, scope, and preparation questions",
+        "Cost and engagement scope",
+        "Compare written terms"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-options-to": [
+        "Service and option comparison",
+        "Internal, agency, and advisory routes",
+        "Select by objective"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-maintenanc": [
+        "Sexual harassment and hostile work environment lawyer",
+        "Ongoing record maintenance",
+        "Preserve context and privacy"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-prepar-3": [
+        "Provider, scope, and preparation questions",
+        "Consultation file",
+        "Eight preparation checks"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-cost-a-3": [
+        "Provider, scope, and preparation questions",
+        "Cost and engagement scope",
+        "Compare defined work"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-timing-con": [
+        "Risks, timing, and decision triggers",
+        "Separate procedural clocks",
+        "Verify urgency without calculating"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-questi-3": [
+        "Provider, scope, and preparation questions",
+        "Consultation booking",
+        "Book or prepare further"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-prepar-4": [
+        "Provider, scope, and preparation questions",
+        "Consultation preparation",
+        "Indexed evidence packet"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-cost-a-4": [
+        "Provider, scope, and preparation questions",
+        "Cost and engagement scope",
+        "Seven-point comparison"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-warning-si": [
+        "Workplace retaliation lawyer",
+        "Warning-signal literacy",
+        "Respond without assuming liability"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-option-4": [
+        "Service and option comparison",
+        "Internal, agency, union, and counsel routes",
+        "Functional comparison"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-warnin-4": [
+        "Workplace retaliation lawyer",
+        "Warning-sign triage",
+        "Document, clarify, compare, or verify"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-planni-4": [
+        "Risks, timing, and decision triggers",
+        "Planning questions",
+        "Jurisdiction and goals"
+      ],
+      "employee-workplace-rights-pennsylvania-and-new-jersey-preparatio": [
+        "Employment discrimination lawyer (age, race, gender, pregnancy, disability)",
+        "Evidence preparation",
+        "Build a neutral review packet"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
