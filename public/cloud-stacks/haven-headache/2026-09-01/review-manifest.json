@@ -1,0 +1,158 @@
+{
+  "publisher": "California Headache Care Planning Guide",
+  "cycle_key": "2026-09-01",
+  "page_count": 20,
+  "support_page_count": 4,
+  "total_html_page_count": 24,
+  "content_sha256": "5e83765b51a29d1242b0c78f97ea7886c5c571b41ffb8af9cbaaebb5a69daecc",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/haven-headache/2026-09-01",
+  "theme_motif": "threshold",
+  "visual_archetype": "decision_notebook",
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 800,
+      "california-headache-and-migraine-specialist-care-planning-co-3": 810,
+      "california-headache-and-migraine-specialist-care-planning-pl-4": 814,
+      "california-headache-and-migraine-specialist-care-planning-ma-3": 756,
+      "california-headache-and-migraine-specialist-care-planning-pr-3": 798,
+      "california-headache-and-migraine-specialist-care-planning-questi": 718,
+      "california-headache-and-migraine-specialist-care-planning-co-4": 969,
+      "california-headache-and-migraine-specialist-care-planning-ti-3": 785,
+      "california-headache-and-migraine-specialist-care-planning-option": 729,
+      "california-headache-and-migraine-specialist-care-planning-op-4": 924,
+      "california-headache-and-migraine-specialist-care-planning-cost-a": 764,
+      "california-headache-and-migraine-specialist-care-planning-op-3": 795,
+      "california-headache-and-migraine-specialist-care-planning-prepar": 753,
+      "california-headache-and-migraine-specialist-care-planning-mainte": 706,
+      "california-headache-and-migraine-specialist-care-planning-timing": 717,
+      "california-headache-and-migraine-specialist-care-planning-pr-4": 915,
+      "california-headache-and-migraine-specialist-care-planning-planni": 787,
+      "california-headache-and-migraine-specialist-care-planning-qu-3": 800,
+      "california-headache-and-migraine-specialist-care-planning-warnin": 745,
+      "california-headache-and-migraine-specialist-care-planning-wa-3": 785
+    },
+    "articles_with_sources": 20,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 20,
+    "articles_with_faqs": 20,
+    "topical_paths": {
+      "index": [
+        "virtual-first headache & migraine specialist clinic for adults 18+ across California fundamentals and terminology",
+        "Starting a California care-planning pathway",
+        "Safety, verification, and preparation"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-co-3": [
+        "Provider, scope, and preparation questions",
+        "Separating clinical scope from financial responsibility",
+        "Proceed, pause, or redirect"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-pl-4": [
+        "Risks, timing, and decision triggers",
+        "Changing-pattern triage questions",
+        "Choose emergency, prompt, or routine action"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-ma-3": [
+        "Personalized acute & preventive treatment plans",
+        "Follow-up ownership and monitoring",
+        "Coordination-model audit"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-pr-3": [
+        "Provider, scope, and preparation questions",
+        "Compact specialist appointment packet",
+        "Eight-part preparation framework"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-questi": [
+        "Botox for chronic migraine",
+        "Questions before booking category-based care",
+        "Scope, delivery, and follow-up"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-co-4": [
+        "Provider, scope, and preparation questions",
+        "Coverage and scope verification",
+        "Decide whether to book with unresolved costs"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-ti-3": [
+        "Risks, timing, and decision triggers",
+        "Selecting an assessment timeframe",
+        "Escalation between three timing lanes"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-option": [
+        "Service and option comparison",
+        "Virtual, hybrid, urgent, and emergency settings",
+        "Capability and escalation matrix"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-op-4": [
+        "Service and option comparison",
+        "Virtual, hybrid, urgent, and emergency settings",
+        "Choose a setting with an escalation route"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-cost-a": [
+        "Provider, scope, and preparation questions",
+        "Financial and administrative scope",
+        "Coverage verification before booking"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-op-3": [
+        "CGRP therapies (monoclonal antibodies + oral gepants)",
+        "Neutral comparison of care categories",
+        "Questions before individualized selection"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-prepar": [
+        "Virtual headache & migraine specialist appointments (UCNS-certified)",
+        "Appointment preparation",
+        "Records, technology, and question priorities"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-mainte": [
+        "CGRP therapies (monoclonal antibodies + oral gepants)",
+        "Ongoing care documentation",
+        "Monitoring and follow-up ownership"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-timing": [
+        "Risks, timing, and decision triggers",
+        "Care timing boundaries",
+        "Emergency, prompt, and routine decisions"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-pr-4": [
+        "Provider, scope, and preparation questions",
+        "Appointment records and verification",
+        "Assemble a concise visit packet"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-planni": [
+        "Service and option comparison",
+        "Matching encounter purpose to setting capability",
+        "Escalation pathway"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-qu-3": [
+        "Virtual headache & migraine specialist appointments (UCNS-certified)",
+        "Pre-booking verification",
+        "Book, clarify, or redirect"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-warnin": [
+        "Personalized acute & preventive treatment plans",
+        "Safety before routine care planning",
+        "Emergency warning-sign action card"
+      ],
+      "california-headache-and-migraine-specialist-care-planning-wa-3": [
+        "Risks, timing, and decision triggers",
+        "Emergency neurologic action boundary",
+        "Low-stimulation warning-sign card"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
