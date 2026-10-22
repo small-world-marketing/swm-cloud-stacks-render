@@ -1,0 +1,119 @@
+{
+  "publisher": "Hot Tub Store Field Guide: Langley",
+  "cycle_key": "2026-10-23",
+  "page_count": 16,
+  "support_page_count": 4,
+  "total_html_page_count": 20,
+  "content_sha256": "af0045b42792a1f36bc0b6e76cce925fca6dd2ddad5fd7f1c87fe1db5f1ff551",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/legacy-spas/2026-10-23",
+  "theme_motif": "threshold",
+  "visual_archetype": "field_guide",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 812,
+      "water-test-visit": 844,
+      "filter-identification": 854,
+      "hot-tubs-langley": 841,
+      "model-document-check": 839,
+      "quote-scope-comparison": 821,
+      "hot-tub-repair-langley": 819,
+      "site-access-record": 839,
+      "restoration-options": 825,
+      "ownership-record-system": 815,
+      "parts-enquiry-record": 842,
+      "hot-tub-store-langley": 839,
+      "delivery-responsibility-plan": 816,
+      "legacy-spas-langley": 846,
+      "hot-tub-covers-langley": 827,
+      "hot-tubs-langley-bc": 826
+    },
+    "articles_with_sources": 4,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 16,
+    "articles_with_faqs": 16,
+    "topical_paths": {
+      "index": [
+        "Choosing a hot tub",
+        "Purchase planning"
+      ],
+      "water-test-visit": [
+        "Water care and ownership",
+        "Testing visits"
+      ],
+      "filter-identification": [
+        "Parts, filters and covers",
+        "Filter identification"
+      ],
+      "hot-tubs-langley": [
+        "Choosing a hot tub",
+        "Seating comparison"
+      ],
+      "model-document-check": [
+        "Choosing a hot tub",
+        "Product documentation"
+      ],
+      "quote-scope-comparison": [
+        "Planning space and delivery",
+        "Quote scope"
+      ],
+      "hot-tub-repair-langley": [
+        "Restoration and professional help",
+        "Repair enquiries"
+      ],
+      "site-access-record": [
+        "Planning space and delivery",
+        "Site information"
+      ],
+      "restoration-options": [
+        "Restoration and professional help",
+        "Option comparison"
+      ],
+      "ownership-record-system": [
+        "Water care and ownership",
+        "Household records"
+      ],
+      "parts-enquiry-record": [
+        "Parts, filters and covers",
+        "Component enquiries"
+      ],
+      "hot-tub-store-langley": [
+        "Water care and ownership",
+        "Support expectations"
+      ],
+      "delivery-responsibility-plan": [
+        "Planning space and delivery",
+        "Responsibilities and handover"
+      ],
+      "legacy-spas-langley": [
+        "Restoration and professional help",
+        "Local restoration enquiry"
+      ],
+      "hot-tub-covers-langley": [
+        "Parts, filters and covers",
+        "Replacement covers"
+      ],
+      "hot-tubs-langley-bc": [
+        "Choosing a hot tub",
+        "Household priorities"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
