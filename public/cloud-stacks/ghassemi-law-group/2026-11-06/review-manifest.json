@@ -1,0 +1,169 @@
+{
+  "publisher": "Orange County Injury Claim Process Guide",
+  "cycle_key": "2026-11-06",
+  "page_count": 26,
+  "support_page_count": 4,
+  "total_html_page_count": 30,
+  "content_sha256": "6227dd00f8b956e34acdd412bf4361028cf4697a7934bd6d4074d4a3fa9d5802",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/ghassemi-law-group/2026-11-06",
+  "theme_motif": "ochre",
+  "visual_archetype": "decision_notebook",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 783,
+      "orange-county-injury-claim-process-and-attorney-selection-qu-4": 694,
+      "orange-county-injury-claim-process-and-attorney-selection-pl-5": 667,
+      "orange-county-injury-claim-process-and-attorney-selection-co-3": 695,
+      "orange-county-injury-claim-process-and-attorney-selection-wa-3": 672,
+      "orange-county-injury-claim-process-and-attorney-selection-mainte": 671,
+      "orange-county-injury-claim-process-and-attorney-selection-pl-4": 672,
+      "orange-county-injury-claim-process-and-attorney-selection-pr-4": 664,
+      "orange-county-injury-claim-process-and-attorney-selection-pr-3": 696,
+      "orange-county-injury-claim-process-and-attorney-selection-warnin": 721,
+      "orange-county-injury-claim-process-and-attorney-selection-ti-3": 665,
+      "orange-county-injury-claim-process-and-attorney-selection-op-4": 670,
+      "orange-county-injury-claim-process-and-attorney-selection-prepar": 697,
+      "orange-county-injury-claim-process-and-attorney-selection-cost-a": 735,
+      "orange-county-injury-claim-process-and-attorney-selection-ma-4": 651,
+      "orange-county-injury-claim-process-and-attorney-selection-co-4": 697,
+      "orange-county-injury-claim-process-and-attorney-selection-option": 706,
+      "orange-county-injury-claim-process-and-attorney-selection-questi": 676,
+      "orange-county-injury-claim-process-and-attorney-selection-planni": 664,
+      "orange-county-injury-claim-process-and-attorney-selection-timing": 696,
+      "orange-county-injury-claim-process-and-attorney-selection-qu-3": 680,
+      "orange-county-injury-claim-process-and-attorney-selection-wa-4": 654,
+      "orange-county-injury-claim-process-and-attorney-selection-ti-4": 657,
+      "orange-county-injury-claim-process-and-attorney-selection-op-3": 681,
+      "orange-county-injury-claim-process-and-attorney-selection-ma-3": 683,
+      "orange-county-injury-claim-process-and-attorney-selection-co-5": 688
+    },
+    "articles_with_sources": 26,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 26,
+    "articles_with_faqs": 26,
+    "topical_paths": {
+      "index": [
+        "personal injury law firm fundamentals and terminology",
+        "An Irvine incident packet someone else can use"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-qu-4": [
+        "Provider, scope, and preparation questions",
+        "Eight questions to ask when booking an interpreter-assisted consultation"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-pl-5": [
+        "Risks, timing, and decision triggers",
+        "Handing a question to the person who can answer it"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-co-3": [
+        "personal injury law firm fundamentals and terminology",
+        "Drawing the boundary around a proposed engagement"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-wa-3": [
+        "Risks, timing, and decision triggers",
+        "Checking a request for access to sensitive records"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-mainte": [
+        "Motorcycle accident lawyer",
+        "Correcting an incident chronology without losing its history"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-pl-4": [
+        "Risks, timing, and decision triggers",
+        "Making sense of a property estimate and a revised bill"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-pr-4": [
+        "Provider, scope, and preparation questions",
+        "Preparing a private family consultation packet"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-pr-3": [
+        "Provider, scope, and preparation questions",
+        "Eight items for a bicycle or pedestrian incident packet"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-warnin": [
+        "Car accident lawyer",
+        "Six details to verify before sharing an injury file"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-ti-3": [
+        "Risks, timing, and decision triggers",
+        "Keeping DMV, insurer and court references separate"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-op-4": [
+        "Service and option comparison",
+        "Choosing the right source for a claim-process question"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-prepar": [
+        "Uber and Lyft (rideshare) accident lawyer",
+        "Which records identify a rideshare trip?"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-cost-a": [
+        "Provider, scope, and preparation questions",
+        "Separating an attorney’s fee from a case expense"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-ma-4": [
+        "personal injury law firm fundamentals and terminology",
+        "What happens to an injury file when its keeper changes?"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-co-4": [
+        "personal injury law firm fundamentals and terminology",
+        "Seven agreement terms to bring to a California lawyer"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-option": [
+        "Service and option comparison",
+        "Comparing two written proposals for the same legal work"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-questi": [
+        "Truck accident lawyer",
+        "A call sheet for a truck or bus incident consultation"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-planni": [
+        "Service and option comparison",
+        "Comparing legal contacts using the same fictional file"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-timing": [
+        "Risks, timing, and decision triggers",
+        "Building a date sheet for a first legal consultation"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-qu-3": [
+        "Provider, scope, and preparation questions",
+        "Deciding what to share before a first appointment"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-wa-4": [
+        "Provider, scope, and preparation questions",
+        "Matching an incoming call to a verified provider"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-ti-4": [
+        "Risks, timing, and decision triggers",
+        "Comparing the dates on a letter, envelope and portal"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-op-3": [
+        "Provider, scope, and preparation questions",
+        "Questions when an injury inquiry moves between offices"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-ma-3": [
+        "personal injury law firm fundamentals and terminology",
+        "Paper originals, working scans and family access"
+      ],
+      "orange-county-injury-claim-process-and-attorney-selection-co-5": [
+        "Provider, scope, and preparation questions",
+        "The final meeting: a checklist for statements, liens and retained records"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
