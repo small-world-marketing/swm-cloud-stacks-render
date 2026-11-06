@@ -1,0 +1,230 @@
+{
+  "publisher": "Millersville Roof & Window Guide",
+  "cycle_key": "2026-11-06",
+  "page_count": 27,
+  "support_page_count": 4,
+  "total_html_page_count": 31,
+  "content_sha256": "b7be85ed52e6dc26e4c7ffe3bfc5246b5baa0ba45eb63696fbd4899167079239",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/exquisite-roofing/2026-11-06",
+  "theme_motif": "threshold",
+  "visual_archetype": "field_guide",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Transparent client-aligned local resource site with an exposed stitched binding.",
+    "first_viewport": "Client service masthead, verified contact details, and a visible route into helpful guides.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Use verified NAP and never claim an independent publisher identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 779,
+      "attic-ventilation": 748,
+      "asphalt-shingle-choices": 744,
+      "permit-research": 746,
+      "roof-leak-observations": 681,
+      "prioritize-exterior-work": 735,
+      "inspection-questions": 692,
+      "repair-or-replace": 734,
+      "prepare-your-property": 737,
+      "decking-assessment": 833,
+      "window-performance-labels": 806,
+      "window-frame-options": 709,
+      "tear-off-and-overlay": 756,
+      "final-walkthrough": 703,
+      "warranty-questions": 716,
+      "full-frame-or-insert": 739,
+      "scope-changes": 707,
+      "roof-care-records": 749,
+      "window-repair-or-replace": 819,
+      "flashing-details": 694,
+      "choose-a-contractor": 846,
+      "after-a-storm": 681,
+      "prepare-for-window-work": 666,
+      "slope-and-materials": 691,
+      "compare-roof-estimates": 723,
+      "roof-system-components": 684,
+      "replacement-sequence": 819
+    },
+    "articles_with_sources": 25,
+    "articles_with_media": 6,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 27,
+    "articles_with_faqs": 27,
+    "topical_paths": {
+      "index": [
+        "Roof assessment",
+        "Getting started with a roofing or window decision"
+      ],
+      "attic-ventilation": [
+        "Roofing projects",
+        "Roof assessment",
+        "Attic ventilation questions"
+      ],
+      "asphalt-shingle-choices": [
+        "Roofing projects",
+        "Asphalt shingle selection",
+        "Comparing shingle categories"
+      ],
+      "permit-research": [
+        "Roofing projects",
+        "Permit and project planning research",
+        "Confirming permit requirements before work begins"
+      ],
+      "roof-leak-observations": [
+        "Roof assessment",
+        "Roof leak inspection",
+        "Documenting symptoms before inspection"
+      ],
+      "prioritize-exterior-work": [
+        "Roofing projects",
+        "Coordinating roofing and window scopes",
+        "Sequencing active problems versus planning items"
+      ],
+      "inspection-questions": [
+        "Roof assessment",
+        "Inspection evidence and documentation",
+        "Questions to ask an inspector"
+      ],
+      "repair-or-replace": [
+        "Roofing projects",
+        "Repair versus replacement decisions"
+      ],
+      "prepare-your-property": [
+        "Roofing projects",
+        "Preparing a property for roofing work"
+      ],
+      "decking-assessment": [
+        "Roofing projects",
+        "roof decking assessment",
+        "concealed conditions pricing"
+      ],
+      "window-performance-labels": [
+        "Window projects",
+        "Window performance and ratings"
+      ],
+      "window-frame-options": [
+        "Window projects",
+        "Window materials and frame selection"
+      ],
+      "tear-off-and-overlay": [
+        "Roofing projects",
+        "Tear-off versus overlay methods",
+        "Choosing the right method for an existing roof"
+      ],
+      "final-walkthrough": [
+        "Roofing projects",
+        "Project closeout",
+        "Final walk-through checklist"
+      ],
+      "warranty-questions": [
+        "Roofing projects",
+        "Roof warranty and documentation",
+        "Warranty questions before signing"
+      ],
+      "full-frame-or-insert": [
+        "Window projects",
+        "full-frame versus insert installation"
+      ],
+      "scope-changes": [
+        "Roofing projects",
+        "scope changes and documentation",
+        "approving hidden-condition findings in writing"
+      ],
+      "roof-care-records": [
+        "Roof assessment",
+        "Roof maintenance records",
+        "Organizing documentation for future decisions"
+      ],
+      "window-repair-or-replace": [
+        "Window projects",
+        "Window repair versus replacement",
+        "Pre-decision questions"
+      ],
+      "flashing-details": [
+        "Roof assessment",
+        "roof flashing details",
+        "questions for a contractor"
+      ],
+      "choose-a-contractor": [
+        "Roofing projects",
+        "choosing a contractor",
+        "verifying licensing and scope"
+      ],
+      "after-a-storm": [
+        "Roof assessment",
+        "Storm damage documentation"
+      ],
+      "prepare-for-window-work": [
+        "Window projects",
+        "Preparing for installation day"
+      ],
+      "slope-and-materials": [
+        "Roofing projects",
+        "Material selection",
+        "Slope-based suitability"
+      ],
+      "compare-roof-estimates": [
+        "Roofing projects",
+        "Comparing estimates",
+        "Scope and change-order review"
+      ],
+      "roof-system-components": [
+        "Roofing projects",
+        "Roof system components",
+        "Reviewing a written scope"
+      ],
+      "replacement-sequence": [
+        "Roofing projects",
+        "Roof replacement process",
+        "Project sequence expectations"
+      ]
+    }
+  },
+  "approved_assets": [
+    {
+      "path": "assets/full-frame-or-insert-6a0fcc99.webp",
+      "sha256": "37e7f5cb37c49877b90e661a7c8a3c5797a2d272cfe94be0ff7bf893525a0e33",
+      "size_bytes": 758798,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/index-fe9dcfd7.webp",
+      "sha256": "60fc781afd6a979bd827771e43012ac2f4a96776619dd48f15929078a5f2ddd9",
+      "size_bytes": 173558,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/prepare-for-window-work-1632846a.webp",
+      "sha256": "d3f2392feefb4f90d9340c9e797afa9c6db9ac13fea18c745638236596b355c9",
+      "size_bytes": 361326,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/window-frame-options-50174777.webp",
+      "sha256": "b01216a1075aa691dd727b5fddb25de470b0f4d896daf38813605438d6e88b4b",
+      "size_bytes": 299448,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/window-performance-labels-f4aca767.webp",
+      "sha256": "243a5751492f1ca9e750d4313e7c6bf3bf5275e09172f1f463c02fb797359f91",
+      "size_bytes": 258586,
+      "mime_type": "image/webp"
+    },
+    {
+      "path": "assets/window-repair-or-replace-69743572.webp",
+      "sha256": "19ad742aa22056180dc19591a0a4e3573cf74caac9af288fd167b5aa37442032",
+      "size_bytes": 530230,
+      "mime_type": "image/webp"
+    }
+  ],
+  "warnings": []
+}
