@@ -1,0 +1,119 @@
+{
+  "publisher": "BC IV Wellness Decision Guide",
+  "cycle_key": "2026-11-24",
+  "page_count": 16,
+  "support_page_count": 4,
+  "total_html_page_count": 20,
+  "content_sha256": "4a33567e1e4dea48c4db9e2be39906ba69f241796b6937096c6ce824e03ee2b1",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/zipdrip/2026-11-24",
+  "theme_motif": "threshold",
+  "visual_archetype": "decision_notebook",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 711,
+      "language-and-format": 668,
+      "remote-assessor-handoff": 661,
+      "records-after-visit-cancels": 694,
+      "quote-and-scope": 682,
+      "care-for-someone-else": 695,
+      "what-changed-before-repeat-booking": 656,
+      "private-event-arrangements": 665,
+      "follow-up-questions": 662,
+      "reading-promotional-language": 656,
+      "changed-appointment-plan": 684,
+      "private-update-channel": 682,
+      "compare-written-product-records": 680,
+      "separate-intake-from-assessment": 693,
+      "mismatched-answers": 667,
+      "visitor-access-plan": 688
+    },
+    "articles_with_sources": 16,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 16,
+    "articles_with_faqs": 1,
+    "topical_paths": {
+      "index": [
+        "Provider, scope, and preparation questions",
+        "Who Answers Which Questions Before a Mobile IV Wellness Visit"
+      ],
+      "language-and-format": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Asking for an Explanation in a Format You Can Use"
+      ],
+      "remote-assessor-handoff": [
+        "Provider, scope, and preparation questions",
+        "Questions About a Handoff From Remote Review to an In-Person Visit"
+      ],
+      "records-after-visit-cancels": [
+        "Provider, scope, and preparation questions",
+        "What to Record When a Mobile Wellness Visit Does Not Go Ahead"
+      ],
+      "quote-and-scope": [
+        "Service and option comparison",
+        "Comparing a Booking Quote With the Proposed Care"
+      ],
+      "care-for-someone-else": [
+        "Provider, scope, and preparation questions",
+        "Questions When You Are Booking a Visit for Someone Else"
+      ],
+      "what-changed-before-repeat-booking": [
+        "Risks, timing, and decision triggers",
+        "What to Recheck Before a Repeat Appointment"
+      ],
+      "private-event-arrangements": [
+        "Risks, timing, and decision triggers",
+        "A Privacy Plan for Group Bookings and Private Events"
+      ],
+      "follow-up-questions": [
+        "Provider, scope, and preparation questions",
+        "Questions to Keep for Follow-Up After an Assessment"
+      ],
+      "reading-promotional-language": [
+        "Service and option comparison",
+        "Six Questions to Ask About a Wellness Advertisement"
+      ],
+      "changed-appointment-plan": [
+        "Risks, timing, and decision triggers",
+        "A Decision Guide When the Appointment Plan Changes"
+      ],
+      "private-update-channel": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Choosing a Private Way to Update Appointment Information"
+      ],
+      "compare-written-product-records": [
+        "Service and option comparison",
+        "Comparing Two Written Product Descriptions Before You Decide"
+      ],
+      "separate-intake-from-assessment": [
+        "Service and option comparison",
+        "Reading an Intake Form Before You Meet the Practitioner"
+      ],
+      "mismatched-answers": [
+        "Risks, timing, and decision triggers",
+        "When Booking Staff and the Practitioner Give Different Answers"
+      ],
+      "visitor-access-plan": [
+        "Mobile IV therapy (delivered to home, office, or hotel)",
+        "Planning Building Access for a Mobile Wellness Appointment"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
