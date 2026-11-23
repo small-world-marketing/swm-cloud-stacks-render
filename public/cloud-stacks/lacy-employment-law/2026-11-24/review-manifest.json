@@ -1,0 +1,149 @@
+{
+  "publisher": "PA–NJ Workplace Rights Guide",
+  "cycle_key": "2026-11-24",
+  "page_count": 22,
+  "support_page_count": 4,
+  "total_html_page_count": 26,
+  "content_sha256": "8a7ed998310f97c3db906bf2c536dbd6a73ef3207ee6009c35507980f59949dd",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/lacy-employment-law/2026-11-24",
+  "theme_motif": "keyway",
+  "visual_archetype": "editorial_journal",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 778,
+      "pay-period-comparison": 773,
+      "preparing-a-leave-enquiry": 777,
+      "workplace-timeline": 773,
+      "after-a-leave-request": 783,
+      "recording-a-retaliation-concern": 768,
+      "documenting-a-workplace-decision": 786,
+      "severance-offer-file": 767,
+      "accommodation-discussion-record": 790,
+      "noncompete-review-questions": 797,
+      "classification-review-questions": 776,
+      "separation-notice-timeline": 773,
+      "nj-dcr-next-enquiry": 782,
+      "employment-records-at-exit": 772,
+      "checking-filing-time": 774,
+      "workplace-pay-record": 777,
+      "harassment-report-preparation": 789,
+      "preserving-a-written-workplace-response": 775,
+      "evidence-inventory": 793,
+      "initial-consultation-brief": 783,
+      "eeoc-intake-and-charge": 766,
+      "pa-phrc-next-enquiry": 775
+    },
+    "articles_with_sources": 15,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 22,
+    "articles_with_faqs": 0,
+    "topical_paths": {
+      "index": [
+        "Agency processes in Pennsylvania and New Jersey",
+        "Start a Workplace Rights Enquiry With the Decision You Need"
+      ],
+      "pay-period-comparison": [
+        "Leave, accommodation, pay and classification",
+        "Compare a Schedule, Time Entry and Pay Statement in the Same Period"
+      ],
+      "preparing-a-leave-enquiry": [
+        "Leave, accommodation, pay and classification",
+        "Prepare the Practical Details for a Workplace Leave Enquiry"
+      ],
+      "workplace-timeline": [
+        "Preparing a workplace chronology and consultation",
+        "Write a Workplace Timeline That Shows Where Each Date Came From"
+      ],
+      "after-a-leave-request": [
+        "Leave, accommodation, pay and classification",
+        "Track a Work or Schedule Change After a Leave Enquiry"
+      ],
+      "recording-a-retaliation-concern": [
+        "Discrimination, harassment and retaliation",
+        "Build a Factual Record of Workplace Changes After a Report"
+      ],
+      "documenting-a-workplace-decision": [
+        "Discrimination, harassment and retaliation",
+        "Prepare Facts About a Workplace Decision You Want Reviewed"
+      ],
+      "severance-offer-file": [
+        "Employment changes and agreements",
+        "Organize a Severance Offer Before Seeking Qualified Advice"
+      ],
+      "accommodation-discussion-record": [
+        "Leave, accommodation, pay and classification",
+        "What Should a Workplace Accommodation Discussion Record?"
+      ],
+      "noncompete-review-questions": [
+        "Employment changes and agreements",
+        "Prepare the Facts for a Noncompete or Restrictive Agreement Review"
+      ],
+      "classification-review-questions": [
+        "Leave, accommodation, pay and classification",
+        "What Work Facts Can Help You Ask About Classification?"
+      ],
+      "separation-notice-timeline": [
+        "Employment changes and agreements",
+        "Build a Timeline for a Termination or Other Separation Notice"
+      ],
+      "nj-dcr-next-enquiry": [
+        "Agency processes in Pennsylvania and New Jersey",
+        "Prepare Questions for New Jersey’s Division on Civil Rights"
+      ],
+      "employment-records-at-exit": [
+        "Employment changes and agreements",
+        "Prepare an Employment Records Checklist When Work Ends"
+      ],
+      "checking-filing-time": [
+        "Agency processes in Pennsylvania and New Jersey",
+        "Which Facts Should You Bring to a Filing-Time Question?"
+      ],
+      "workplace-pay-record": [
+        "Leave, accommodation, pay and classification",
+        "Build a Pay Record for a Specific Work Period"
+      ],
+      "harassment-report-preparation": [
+        "Discrimination, harassment and retaliation",
+        "What Information Can Help You Prepare a Workplace Harassment Enquiry?"
+      ],
+      "preserving-a-written-workplace-response": [
+        "Discrimination, harassment and retaliation",
+        "Keep an Employer Response Attached to the Request It Answers"
+      ],
+      "evidence-inventory": [
+        "Preparing a workplace chronology and consultation",
+        "Organize Workplace Records Without Collecting Unrelated Material"
+      ],
+      "initial-consultation-brief": [
+        "Preparing a workplace chronology and consultation",
+        "Prepare a Focused First Conversation With an Employment Lawyer"
+      ],
+      "eeoc-intake-and-charge": [
+        "Agency processes in Pennsylvania and New Jersey",
+        "Keep EEOC Intake and Filing Records Distinct"
+      ],
+      "pa-phrc-next-enquiry": [
+        "Agency processes in Pennsylvania and New Jersey",
+        "Prepare a Pennsylvania Employment Discrimination Enquiry"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
