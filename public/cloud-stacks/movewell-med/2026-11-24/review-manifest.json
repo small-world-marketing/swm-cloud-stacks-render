@@ -1,0 +1,144 @@
+{
+  "publisher": "Metro Vancouver Mobility & Healthy Aging Guide",
+  "cycle_key": "2026-11-24",
+  "page_count": 18,
+  "support_page_count": 4,
+  "total_html_page_count": 22,
+  "content_sha256": "db9ea3c8c0b1c59cf3509be9fefc6b2f56214d30f263b6a9b7d46b3d6a58ec66",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/movewell-med/2026-11-24",
+  "theme_motif": "grid",
+  "visual_archetype": "editorial_journal",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 928,
+      "track-function-questions-adverse-events-and-follow-up-without-scoring-treatment-success": 813,
+      "questions-before-a-longevity-or-healthy-aging-program": 850,
+      "coordinate-mobile-therapists-physicians-pharmacists-specialists-and-family-support": 794,
+      "ask-about-purpose-alternatives-risks-privacy-records-and-the-right-to-pause": 769,
+      "verify-a-physical-therapist-in-the-chcpbc-public-registry": 880,
+      "verify-eligibility-assessment-staffing-frequency-duration-fees-and-exit-terms": 838,
+      "questions-before-an-arthritis-focused-program": 845,
+      "prepare-a-clinician-conversation-about-falls-using-official-prompts": 876,
+      "record-environmental-concerns-for-discussion-without-prescribing-modifications": 819,
+      "map-mobile-rehabilitation-future-clinics-consultations-and-wellness-programs": 757,
+      "prepare-for-a-home-visit-access-space-privacy-support-and-contacts": 875,
+      "verify-whether-a-location-is-currently-operating-before-planning-a-visit": 889,
+      "check-evidence-behind-physician-led-safety-and-outcome-claims": 818,
+      "questions-before-a-mobility-and-balance-program": 878,
+      "record-symptoms-function-history-medications-goals-and-unanswered-questions": 831,
+      "verify-a-physician-in-the-cpsbc-registrant-directory": 772,
+      "compare-professional-roles-by-questions-about-scope-not-treatment-recommendations": 794
+    },
+    "articles_with_sources": 12,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 18,
+    "articles_with_faqs": 18,
+    "topical_paths": {
+      "index": [
+        "physician-led mobile physiotherapy and longevity medicine practice fundamentals and terminology",
+        "Clarifying your mobility or care-planning question"
+      ],
+      "track-function-questions-adverse-events-and-follow-up-without-scoring-treatment-success": [
+        "Provider, scope, and preparation questions",
+        "Records and documentation",
+        "Tracking function and follow-up between visits"
+      ],
+      "questions-before-a-longevity-or-healthy-aging-program": [
+        "IV Therapy",
+        "Longevity and healthy-aging program evaluation",
+        "Pre-enrollment question framework"
+      ],
+      "coordinate-mobile-therapists-physicians-pharmacists-specialists-and-family-support": [
+        "Provider, scope, and preparation questions",
+        "Coordinating multiple providers",
+        "Choosing a communication method"
+      ],
+      "ask-about-purpose-alternatives-risks-privacy-records-and-the-right-to-pause": [
+        "Risks, timing, and decision triggers",
+        "Informed consent before starting a program",
+        "Questions to ask before agreeing to any service"
+      ],
+      "verify-a-physical-therapist-in-the-chcpbc-public-registry": [
+        "Provider, scope, and preparation questions",
+        "Verifying physical therapist registration",
+        "Using the CHCPBC public registry before booking"
+      ],
+      "verify-eligibility-assessment-staffing-frequency-duration-fees-and-exit-terms": [
+        "Arthritis Program",
+        "Program eligibility and terms",
+        "Verifying staffing, fees, and exit conditions"
+      ],
+      "questions-before-an-arthritis-focused-program": [
+        "Arthritis Program",
+        "Provider, scope, and preparation questions",
+        "Evaluating an arthritis-focused program before enrolling"
+      ],
+      "prepare-a-clinician-conversation-about-falls-using-official-prompts": [
+        "Risks, timing, and decision triggers",
+        "Falls conversation preparation",
+        "Using official prompts without self-diagnosis"
+      ],
+      "record-environmental-concerns-for-discussion-without-prescribing-modifications": [
+        "Risks, timing, and decision triggers",
+        "Home environment documentation",
+        "Preparing observations for a clinician visit"
+      ],
+      "map-mobile-rehabilitation-future-clinics-consultations-and-wellness-programs": [
+        "Service and option comparison",
+        "Mobile rehabilitation versus future clinic, consultation, and wellness categories"
+      ],
+      "prepare-for-a-home-visit-access-space-privacy-support-and-contacts": [
+        "Mobility & Balance Program",
+        "Home-visit preparation",
+        "Access, space, privacy, and support planning"
+      ],
+      "verify-whether-a-location-is-currently-operating-before-planning-a-visit": [
+        "Service and option comparison",
+        "Confirming current operating status before a visit"
+      ],
+      "check-evidence-behind-physician-led-safety-and-outcome-claims": [
+        "Risks, timing, and decision triggers",
+        "Testing marketing and outcome claims",
+        "Evaluating physician-led and safety language"
+      ],
+      "questions-before-a-mobility-and-balance-program": [
+        "Mobility & Balance Program",
+        "Pre-enrollment questions",
+        "Assessment and staffing verification"
+      ],
+      "record-symptoms-function-history-medications-goals-and-unanswered-questions": [
+        "Longevity Program",
+        "Provider, scope, and preparation questions",
+        "Appointment preparation records"
+      ],
+      "verify-a-physician-in-the-cpsbc-registrant-directory": [
+        "Provider, scope, and preparation questions",
+        "Verifying physician registration",
+        "Preparing for a physician-led consultation"
+      ],
+      "compare-professional-roles-by-questions-about-scope-not-treatment-recommendations": [
+        "Provider, scope, and preparation questions",
+        "Comparing professional roles by scope",
+        "Scope questions versus treatment questions"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
