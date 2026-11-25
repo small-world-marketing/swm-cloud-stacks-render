@@ -1,0 +1,139 @@
+{
+  "publisher": "California Headache Care Planning Guide",
+  "cycle_key": "2026-11-25",
+  "page_count": 20,
+  "support_page_count": 4,
+  "total_html_page_count": 24,
+  "content_sha256": "6c1f0f68a786f3082e00f7d2488f115882577c2d58dd4430932604e4f75bc404",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/haven-headache/2026-11-25",
+  "theme_motif": "ochre",
+  "visual_archetype": "decision_notebook",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 682,
+      "episode-history-worksheet": 653,
+      "concise-care-history": 717,
+      "acute-and-preventive-care-questions": 657,
+      "sudden-neurologic-changes": 712,
+      "botulinum-toxin-discussion": 720,
+      "appointment-records": 714,
+      "device-discussion-questions": 661,
+      "nerve-block-consultation": 663,
+      "virtual-or-in-person": 713,
+      "safety-and-monitoring-questions": 667,
+      "verify-california-nursing": 713,
+      "language-for-migraine-care": 674,
+      "prepare-for-telehealth": 651,
+      "infusion-or-urgent-care-questions": 705,
+      "verify-california-physician": 697,
+      "cgrp-discussion-questions": 675,
+      "medicine-list": 680,
+      "changing-headache-pattern": 670,
+      "insurance-and-referral-questions": 651
+    },
+    "articles_with_sources": 9,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 0,
+    "articles_with_faqs": 0,
+    "topical_paths": {
+      "index": [
+        "Choosing a care setting",
+        "Choose a Next Step for Headache Care Planning"
+      ],
+      "episode-history-worksheet": [
+        "Preparing for an appointment",
+        "Record an Episode in a Form Your Clinician Can Review"
+      ],
+      "concise-care-history": [
+        "Preparing for an appointment",
+        "Make a Short History for a Headache Care Visit"
+      ],
+      "acute-and-preventive-care-questions": [
+        "Questions about care options",
+        "Ask How Acute and Preventive Care Fit Into Your Plan"
+      ],
+      "sudden-neurologic-changes": [
+        "Choosing a care setting",
+        "Keep an Emergency Action Card for Suspected Stroke"
+      ],
+      "botulinum-toxin-discussion": [
+        "Questions about care options",
+        "Ask What a Botulinum Toxin Procedure Discussion Involves"
+      ],
+      "appointment-records": [
+        "Preparing for an appointment",
+        "Choose Which Records to Bring to a Headache Care Visit"
+      ],
+      "device-discussion-questions": [
+        "Questions about care options",
+        "Gather Questions About a Neuromodulation Device Discussion"
+      ],
+      "nerve-block-consultation": [
+        "Questions about care options",
+        "Organize Questions for a Nerve Block or Injection Consultation"
+      ],
+      "virtual-or-in-person": [
+        "Choosing a care setting",
+        "Ask Which Setting Can Address Your Headache Care Question"
+      ],
+      "safety-and-monitoring-questions": [
+        "Questions about care options",
+        "Bring Risks and Monitoring Questions to the Clinician"
+      ],
+      "verify-california-nursing": [
+        "Credentials and access",
+        "Check a California Nursing Credential by Role and Record"
+      ],
+      "language-for-migraine-care": [
+        "Preparing for an appointment",
+        "Put Migraine and Migraine Attacks in the Right Parts of Your Notes"
+      ],
+      "prepare-for-telehealth": [
+        "Credentials and access",
+        "Prepare for a California Telehealth Appointment"
+      ],
+      "infusion-or-urgent-care-questions": [
+        "Choosing a care setting",
+        "Clarify a Clinician’s Referral for Infusion or Urgent Care"
+      ],
+      "verify-california-physician": [
+        "Credentials and access",
+        "Check a California Physician’s Public License Record"
+      ],
+      "cgrp-discussion-questions": [
+        "Questions about care options",
+        "Prepare for a Conversation About CGRP Options"
+      ],
+      "medicine-list": [
+        "Preparing for an appointment",
+        "Bring a Medicine List That Shows What Is Current"
+      ],
+      "changing-headache-pattern": [
+        "Choosing a care setting",
+        "Bring a Meaningful Change to the Right Care Team"
+      ],
+      "insurance-and-referral-questions": [
+        "Credentials and access",
+        "Confirm Network, Referral, and Billing Details Before a Visit"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
