@@ -1,0 +1,149 @@
+{
+  "publisher": "Lower Mainland Allied Care Decision Guide",
+  "cycle_key": "2026-11-25",
+  "page_count": 22,
+  "support_page_count": 4,
+  "total_html_page_count": 26,
+  "content_sha256": "b635640a93054aa151e5bb5994b8ccf62ad8a6d9ceddaa47382b0d7014134413",
+  "indexable": true,
+  "canonical_origin": "https://swm-cloud-stacks-render.onrender.com/cloud-stacks/easy-allied-health/2026-11-25",
+  "theme_motif": "keyway",
+  "visual_archetype": "decision_notebook",
+  "monthly_visual_recipe": null,
+  "visual_contract": {
+    "seed_key": "8fd4c4ad",
+    "world": "Independent local publisher with an exposed stitched binding.",
+    "first_viewport": "Publisher masthead, editorial title, and a visible route into featured stories.",
+    "visitor_path": "Home → Topics or Archive → reviewed article → related reading.",
+    "signature_interaction": "The stitched binding visually carries the reader between static collection routes.",
+    "constraints": [
+      "Never clone the client business identity.",
+      "Use approved assets only and preserve their immutable receipts.",
+      "Keep the artifact executable-script free."
+    ]
+  },
+  "content_quality": {
+    "recommended_minimum_words_per_article": 650,
+    "article_word_counts": {
+      "index": 731,
+      "icbc-first-twelve-weeks": 695,
+      "translate-concerns-into-questions": 716,
+      "clinic-claims-checklist": 707,
+      "choose-practitioner-check": 720,
+      "first-appointment-packet": 717,
+      "scope-questions-by-profession": 719,
+      "physiotherapy-visit-questions": 720,
+      "post-surgery-coordination": 716,
+      "active-rehab-kinesiology-questions": 699,
+      "urgent-questions-before-booking": 696,
+      "massage-therapy-questions": 719,
+      "dizziness-appointment-preparation": 722,
+      "current-care-list": 710,
+      "organize-claim-records": 695,
+      "chiropractic-visit-questions": 721,
+      "occupational-therapy-questions": 720,
+      "concussion-appointment-preparation": 705,
+      "identify-the-regulator": 729,
+      "consent-and-questions": 720,
+      "billing-and-cancellation": 697,
+      "acupuncture-visit-questions": 715
+    },
+    "articles_with_sources": 12,
+    "articles_with_media": 0,
+    "articles_with_embeds": 0,
+    "articles_with_entities": 0,
+    "articles_with_faqs": 0,
+    "topical_paths": {
+      "index": [
+        "Choosing the next question",
+        "Choose the Next Allied Health Question to Ask"
+      ],
+      "icbc-first-twelve-weeks": [
+        "Billing and claim records",
+        "Verify ICBC Appointment Rules for the First Twelve Weeks"
+      ],
+      "translate-concerns-into-questions": [
+        "Choosing the next question",
+        "Turn Everyday Concerns Into Questions for an Appointment"
+      ],
+      "clinic-claims-checklist": [
+        "Choosing the next question",
+        "Turn Clinic Convenience Claims Into Verifiable Questions"
+      ],
+      "choose-practitioner-check": [
+        "Verifying a professional",
+        "Match a Practitioner to Their Public Registration Entry"
+      ],
+      "first-appointment-packet": [
+        "Consent and appointments",
+        "Assemble a Practical Packet for the First Appointment"
+      ],
+      "scope-questions-by-profession": [
+        "Verifying a professional",
+        "Compare Scope Questions Across Allied Health Professions"
+      ],
+      "physiotherapy-visit-questions": [
+        "Planning across services",
+        "Plan the First Conversation About Physiotherapy"
+      ],
+      "post-surgery-coordination": [
+        "Planning across services",
+        "Coordinate Post-Surgery Rehabilitation Questions With the Treating Team"
+      ],
+      "active-rehab-kinesiology-questions": [
+        "Planning across services",
+        "Ask What an Active Rehabilitation Visit Would Cover"
+      ],
+      "urgent-questions-before-booking": [
+        "Choosing the next question",
+        "Put Urgent Concerns Before Routine Booking"
+      ],
+      "massage-therapy-questions": [
+        "Planning across services",
+        "Confirm Boundaries and Practical Details Before a Massage Therapy Visit"
+      ],
+      "dizziness-appointment-preparation": [
+        "Planning across services",
+        "Prepare Notes for a Dizziness or Vestibular Appointment"
+      ],
+      "current-care-list": [
+        "Consent and appointments",
+        "Keep a Current Medicine and Care Team List"
+      ],
+      "organize-claim-records": [
+        "Billing and claim records",
+        "Organize Claim Numbers, Receipts, and Provider Correspondence"
+      ],
+      "chiropractic-visit-questions": [
+        "Planning across services",
+        "Ask About Assessment and Choices Before a Chiropractic Visit"
+      ],
+      "occupational-therapy-questions": [
+        "Planning across services",
+        "Prepare Questions About an Occupational Therapy Appointment"
+      ],
+      "concussion-appointment-preparation": [
+        "Planning across services",
+        "Get Ready for a Clinician-Led Concussion-Related Appointment"
+      ],
+      "identify-the-regulator": [
+        "Verifying a professional",
+        "Identify Which B.C. Regulator to Ask About a Profession"
+      ],
+      "consent-and-questions": [
+        "Consent and appointments",
+        "Prepare Questions for a Health Care Consent Discussion"
+      ],
+      "billing-and-cancellation": [
+        "Billing and claim records",
+        "Confirm Fees, Cancellation Terms, and Receipts Before Booking"
+      ],
+      "acupuncture-visit-questions": [
+        "Planning across services",
+        "Prepare Consent and Practice Questions for an Acupuncture Appointment"
+      ]
+    }
+  },
+  "approved_assets": [],
+  "warnings": []
+}
